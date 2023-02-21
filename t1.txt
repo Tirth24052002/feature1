@@ -1,3 +1,6 @@
 This is the second commit.
 This is the third feature.
+<<<<<<< HEAD
 This is the last feature.
+=======
+>>>>>>> 68aff67 (-third-feature)
