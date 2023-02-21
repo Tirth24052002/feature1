@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is the second commit.
 This is the third feature.
 <<<<<<< HEAD
@@ -12,3 +13,7 @@ Here is the new feature.
 =======
 This is the last feature.
 >>>>>>> e4b1be8 (-feature-last)
+=======
+This is the second commit.
+This is the third feature.
+>>>>>>> 68aff67 (-third-feature)
