@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is the second commit.
 This is the third feature.
 <<<<<<< HEAD
@@ -17,3 +18,6 @@ This is the last feature.
 This is the second commit.
 This is the third feature.
 >>>>>>> 68aff67 (-third-feature)
+=======
+Here is the new feature.
+>>>>>>> feature/feature-toolbar
