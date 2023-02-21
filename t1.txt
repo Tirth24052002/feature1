@@ -2,9 +2,13 @@
 This is the second commit.
 This is the third feature.
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is the last feature.
 =======
 >>>>>>> 68aff67 (-third-feature)
 =======
 Here is the new feature.
 >>>>>>> 5775b72 (-feature-one)
+=======
+This is the last feature.
+>>>>>>> e4b1be8 (-feature-last)
